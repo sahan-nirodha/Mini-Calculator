@@ -1,4 +1,4 @@
-Screen shots of calculator aplication page
+        Screen shots of calculator aplication page
 
 ![Screenshot 2024-11-01 120522](https://github.com/user-attachments/assets/c0fc17e7-305c-4b41-abe5-3eae13120369)
 
